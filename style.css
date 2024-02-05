@@ -1,0 +1,57 @@
+body{
+    background-color: bisque;
+}
+header{
+    background-color: cornflowerblue;
+    color: oldlace;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main{
+    background-color: cornflowerblue;
+    color: bisque;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+footer{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contenedor{
+    background-color: cornflowerblue;
+    border: 1px solid bisque;
+    margin: 0px;
+    padding: 0px;
+}
+footer div a{
+    background-color: cornflowerblue;
+    color: bisque;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ancla{
+    background-color: cornflowerblue;
+    color: bisque;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.unorder{
+    list-style-type: none;
+    color: bisque;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+.container a{
+    color: bisque;
+    text-decoration: none;
+    padding: 20px;
+    bottom: 50px;
+    display: flex;
+
+    
+}
